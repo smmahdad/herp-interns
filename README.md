@@ -11,21 +11,20 @@ Evolution big picture stuff
 DNA/DNA Replication  
 Transcription/Translation  
 Mutations  
-Heredity and Intro to Probability   
-Evolution smaller picture stuff  
-  
-Python review  
-Intro to Numpy  
 
-### Week 3 (Election week!)  
+Python review  
+
+### Week 3 (Election week!)
+Heredity and Intro to Probability   
+Evolution smaller picture stuff    
 Genes, Genomes    
-Genome sequencing  
   
-Numpy continued  
-Look at & understand snake data  
+Intro to numpy 
+Look at & understand snake sequence data  
 
 ### Week 4
-Genome sequencing / Sequence alignment algorithms  
+Genome sequencing
+Sequence alignment algorithms  
   
 Hopefully start experimenting with the data, write some basic scripts  
 Numpy continued  

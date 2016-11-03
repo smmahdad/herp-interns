@@ -62,8 +62,5 @@ $ git merge upstream/master
 
 ## Thursday, Nov 3
 - Finish up whatever didn't get done on Tuesday
-- Discussion: Heredity & Probability
-- Evolution in relation to allele frequencies, mutations
-- What is selection? What is drift?
 - More python review. Install anaconda and intro to Numpy!
   
