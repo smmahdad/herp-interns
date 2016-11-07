@@ -15,14 +15,15 @@ Mutations
 Python review  
 
 ### Week 3 (Election week!)
-Heredity and Intro to Probability   
-Evolution smaller picture stuff    
-Genes, Genomes    
+DNA/DNA Replication  
+Transcription/Translation  
+Mutations  
   
-Intro to numpy 
+Continue python review & Intro to numpy 
 Look at & understand snake sequence data  
 
 ### Week 4
+Genes, Genomes    
 Genome sequencing
 Sequence alignment algorithms  
   
