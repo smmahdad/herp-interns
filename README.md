@@ -1,4 +1,4 @@
-# herp-interns
+# herp-interns + Sam
 
 Material for the Year 2 Internships in Herpetology 2016-2017  
 Part of the AMNH BridgeUp: STEM program.  
